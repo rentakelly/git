@@ -1,0 +1,12 @@
+git add --all
+
+commit -m "<Titulo>" -m "<Texto com informações sobre o commit>" -m "<Mais texto sobre o commit>"
+
+git log --graph
+
+git branch <nome da branch> (cria branch)
+
+git checkout <nome da branch> (muda para a branch selecionada)
+
+alterando essas duas linhas
+para ver no que dá
